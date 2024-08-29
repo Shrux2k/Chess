@@ -43,7 +43,6 @@ To play the game, you need Python and Pygame installed on your computer. Follow 
 ### Controls
 
 - **Mouse Clicks**: Use the mouse to select and move pieces.
-- **Forfeit Button**: Click the "FORFEIT" button if you want to concede the game.
 - **Restart**: Press "ENTER" after a game is over to restart.
 
 ### Rules and Gameplay
